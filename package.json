@@ -1,0 +1,8 @@
+{
+  "name": "rosewood-chess-server",
+  "version": "1.0.0",
+  "description": "Online server for Rosewood Chess: profiles, random matches, rooms, chat and ratings. No dependencies.",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "test": "node test.js" },
+  "engines": { "node": ">=18" }
+}
